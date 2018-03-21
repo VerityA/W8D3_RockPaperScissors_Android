@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="choose">Choose your hand</string>
+    <string name="rules">The rules of Rock, Paper, Scissors are as follows: \n1. Pick a hand of either rock, paper, scissors, lizard or spock \n2. The computer will choose a hand \n3. the hands are compared. \nPaper beats rock and spock, \nrock beats scissors and lizard, \nlizard beats spock and paper, \nspock beats rock and scissors, \nand scissors beats lizard and paper. \nThe same hand draws.</string>
+    <string name="play">Play!</string>
+    <string name="title">Welcome to Rock, Paper, Scissors</string>
+    <string name="player_hand_string">Your hand:</string>
+    <string name="computer_hand_string">The computer\'s hand:</string>
+    <string name="player_score">Your score:</string>
+    <string name="comp_score">Computer\'s score:</string>
+</resources>

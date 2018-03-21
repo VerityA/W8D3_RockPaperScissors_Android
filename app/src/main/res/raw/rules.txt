@@ -1,0 +1,4 @@
+The rules of Rock, Paper, Scissors are as follows:
+1. Pick a hand of either rock, paper, or scissors
+2. The computer will choose a hand
+3. the hands are compared. Paper beats rock, rock beats scissors, scissors beats paper. The same hand draws.
